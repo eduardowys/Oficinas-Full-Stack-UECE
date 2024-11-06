@@ -25,7 +25,10 @@ Imagine que você decidiu criar um blog pessoal para compartilhar suas aventuras
 Após seguir todos os passos da oficina, você perceberá que o formulário na sua página não está exibindo o botão de envio corretamente. A cor do botão não estará correta, e a página não se comportará como o esperado. Você vai identificar e corrigir esse erro.
 
 ### Passos:
-
+- Identificação do Erro: O que está faltando no código acima? Analise o código e
+tente identificar a propriedade ausente que está causando o problema.
+- Correção do Erro: Adicione a propriedade correta ao código para garantir que o
+botão seja estilizado adequadamente.
 #### 1. **Análise do Código:**
    Observe o código CSS do botão de envio (`input[type="submit"]`). Verifique se todas as propriedades estão corretamente aplicadas.
 
